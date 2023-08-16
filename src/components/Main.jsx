@@ -220,7 +220,7 @@ const Main = () => {
               tailored to meet client needs. Explore my projects and feel free to contact me to discuss how we collaborate in the future.
             </p>
             <div style={circleImageContainerStyle}>
-              <a href="/resume" target="_blank">
+              <a href="https://new-portfolio-eight-iota.vercel.app/resume" target="_blank">
                 <img
                   src="https://i.imgur.com/hOnnquo.jpg"
                   alt="Profile"
