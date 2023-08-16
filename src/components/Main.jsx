@@ -222,7 +222,7 @@ const Main = () => {
             <div style={circleImageContainerStyle}>
               <a href="/resume" target="_blank">
                 <img
-                  src="src/assets/profilePic.png"
+                  src="https://i.imgur.com/hOnnquo.jpg"
                   alt="Profile"
                   style={circleImageStyle}
                   onMouseEnter={handleImageHover}
