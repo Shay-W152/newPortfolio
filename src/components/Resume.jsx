@@ -156,7 +156,7 @@ const Resume = () => {
             <li> HTML </li>
             <li> CSS </li>
             <li> React using the Vite engine </li>
-            <li> Python usng REST API and VIEWS</li>           
+            <li> Python using REST API and VIEWS</li>           
             <li> SQL and NoSQL Databases </li>
             <li>Figma</li>
             <li>Data Entry</li>
