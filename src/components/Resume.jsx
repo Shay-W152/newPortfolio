@@ -86,7 +86,7 @@ const Resume = () => {
         <div style={styles.circleImageContainerStyle}>
           
             <img
-              src="src/assets/profilePic.png"
+              src="https://i.imgur.com/hOnnquo.jpg"
               alt="Profile"
               style={styles.circleImageStyle}
               onMouseEnter={handleImageHover}
